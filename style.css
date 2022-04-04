@@ -1,0 +1,13 @@
+.parentContainer {
+    display: flex;
+}
+ 
+ .flexItem {
+     background-color: gray;
+     margin: 10px;
+     padding: 100px;
+     width:33% ;
+     height: 33%;
+ align-items:center;
+ flex-direction: row;
+ }
